@@ -25,6 +25,7 @@ This mod changes many crafting recipes, but not all. Some recipes were left as t
 
 - This mod works with other mods, but conflicts may happen if they also target the same recipes.
 - If you’re unsure whether the mods will work together, feel free to try them.
+- If you find a recipe that seems off or could be improved, let me know!
 - Feedback and suggestions are welcome!
 
-If you find any problems related to this mod, please [open an issue here](https://github.com/Feioa/All-but-Crafting/issues).
+If you find any problems related to this mod, please [open an issue here](https://github.com/Feioa/AbC/issues).
