@@ -18,8 +18,9 @@ This mod changes many crafting recipes, but not all. Some recipes were left as t
 
 1. Download the latest version of the mod from this repository.
 2. Open your *7 Days to Die* folder and find the "Mods" folder. If you don’t have one, create a new folder and name it "Mods".
-3. Copy the downloaded file(s) into your Mods folder in your *7 Days to Die* installation directory.
-4. Launch the game and enjoy smarter crafting!
+3. Open the Downloaded Zip File
+4. Copy the downloaded file(s) into your Mods folder in your *7 Days to Die* installation directory.
+5. Launch the game and enjoy smarter crafting!
 
 ## Q&A
 
